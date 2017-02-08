@@ -8,3 +8,7 @@ mysql 5.7
 ruby 2.2.1
 rails 4.3.8
 
+
+## 注意事项!
+
+远程服务器请 使用 Ubuntu!
